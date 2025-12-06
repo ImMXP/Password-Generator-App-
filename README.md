@@ -3,7 +3,7 @@
 
 <div id="english"></div>
 
-## 🇬🇧 English Description
+## Description
 A simple and efficient Java-based Command Line Interface (CLI) application that generates random passwords with various complexity levels. This tool allows users to specify the desired password length and generates Lowercase, Uppercase, and Mixed-case passwords simultaneously.
 
 ### 🚀 Features
