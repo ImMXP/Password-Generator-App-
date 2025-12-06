@@ -1,7 +1,4 @@
 # Password Generator App | تطبيق مولد كلمات المرور 🔒
-
-**Language:** [English](#english) | [العربية](#arabic)
-
 ---
 
 <div id="english"></div>
