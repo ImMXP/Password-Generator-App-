@@ -28,7 +28,7 @@ A simple and efficient Java-based Command Line Interface (CLI) application that 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ImMXP/Password-Generator-App-.git
+   git clone https://github.com/ImMXP/Password-Generator-App-
 
 ## <a id="arabic"></a>🇸🇦 الوصف بالعربية
 
@@ -51,4 +51,4 @@ A simple and efficient Java-based Command Line Interface (CLI) application that 
 
 1. **انسخ المستودع (Clone):**
    ```bash
-   git clone https://github.com/ImMXP/Password-Generator-App-.git
+   git clone https://github.com/ImMXP/Password-Generator-App-
