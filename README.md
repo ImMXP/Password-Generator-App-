@@ -30,9 +30,6 @@ A simple and efficient Java-based Command Line Interface (CLI) application that 
    ```bash
    git clone https://github.com/ImMXP/Password-Generator-App-.git
 
-
-   ---
-
 ## <a id="arabic"></a>🇸🇦 الوصف بالعربية
 
 تطبيق بسيط وفعال يعمل من خلال سطر الأوامر (CLI) ومبني بلغة الجافا لتوليد كلمات مرور عشوائية بمستويات تعقيد مختلفة. يتيح هذا البرنامج للمستخدم تحديد طول كلمة المرور، ويقوم بتوليد كلمات مرور تتكون من **حروف صغيرة**، و**حروف كبيرة**، و**مزيج بينهما** في آن واحد.
